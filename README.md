@@ -2,7 +2,7 @@
   <a href="https://www.kwry.us"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.kwry.us">undefy</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://und3fy.com">undefy</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.kwry.us">Official Website</a></strong> |
+  <strong><a href="https://www.und3fy.com">Official Website</a></strong> |
   <strong><a href="https://twitter.com/akamebtc">Twitter</a></strong> |
   <strong><a href="https://t.me/balenottere">Telegram</a></strong> |
   <strong><a href="https://instagram.com/nukedbyakame">Instagram</a></strong>
