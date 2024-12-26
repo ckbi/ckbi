@@ -1,8 +1,9 @@
 <p align="center">
   <h1 align="center">Hi, I'm <a href="https://und3fy.com">undefy</a>!</h1>
 </p>
-
-<a href="https://www.kwry.us"><img src="IMG_0010.gif" alt="Banner"></a>
+<p align="center">
+  <a href="https://www.kwry.us"><img src="IMG_0010.gif" alt="Banner"></a>
+</p>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
