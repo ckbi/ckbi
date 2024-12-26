@@ -6,6 +6,7 @@
 </p>
 <p align="center">
   <h1> All my infos here </h1>
+</p>
 <p align="center">
   <strong><a href="https://guns.lol/und3fy">Official Website</a></strong> |
   <strong><a href="https://twitter.com/akamebtc">Twitter</a></strong> |
