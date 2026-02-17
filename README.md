@@ -6,7 +6,6 @@
 </p>
 <h2 align="center"> a bored teenager that loves fucking braintree/stripe </h2>
 <p align="center">
-  <strong><a href="https://guns.lol/und3fy">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/akamebtc">Twitter</a></strong> |
-  <strong><a href="https://t.me/balenottere">Telegram</a></strong> |
+  <strong><a href="https://guns.lol/und3fy">Web</a></strong> |
+  <strong><a href="https://t.me/balenottere">Telegram</a></strong>
 </p>
