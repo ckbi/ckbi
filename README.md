@@ -12,5 +12,4 @@
   <strong><a href="https://guns.lol/und3fy">Official Website</a></strong> |
   <strong><a href="https://twitter.com/akamebtc">Twitter</a></strong> |
   <strong><a href="https://t.me/balenottere">Telegram</a></strong> |
-  <strong><a href="https://instagram.com/nukedbyakame">Instagram</a></strong>
 </p>
