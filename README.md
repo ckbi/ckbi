@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.guns.lol/und3fy"><img src="IMG_0010.gif" alt="Banner"></a>
 </p>
+<h2 align="center"> a bored teenager that loves fucking braintree/stripe </h2>
 <p align="center">
   <h1> All my infos here </h1>
 </p>
